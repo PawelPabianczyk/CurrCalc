@@ -1,0 +1,7 @@
+.text-field {
+     -fx-alignment: center-left;
+}
+
+#lPLN,#lTransfer, #lGBPTF, #lPLNTF {
+    -fx-font-weight: bold;
+}
